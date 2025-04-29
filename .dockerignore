@@ -1,0 +1,28 @@
+# Compiled object files
+*.o
+
+# Compiled binary files
+*.out
+*.exe
+
+# Precompiled Headers
+*.gch
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Build directories
+/build/
+/dist/
+
+# IDE specific files
+*.vscode/
+*.idea/
