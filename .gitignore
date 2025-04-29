@@ -1,0 +1,21 @@
+# Java-related files
+*.class
+
+# Logs
+*.log
+
+# IDE-specific files
+/.idea/
+/.vscode/
+
+# Build directories
+/build/
+/dist/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Docker-related files
+Dockerfile
+.dockerignore
