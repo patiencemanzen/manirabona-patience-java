@@ -1,6 +1,6 @@
 # Project Overview
 
-This repository contains three systems implemented in Java:
+This repository contains three systems implemented in Java for the only Purpose of OOP Assignment:
 
 1. **Motor Insurance System**: Manages insurance policies, claims, and vehicles.
 2. **Online Shopping System**: Handles shopping items, carts, and payments.
